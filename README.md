@@ -1,1 +1,2 @@
 # Customer-Churn-Analysis Dashboard
+As part of the PwC Power BI in Data Analytics Virtual Case Experience, I analyzed a customer churn dataset for a telecom client of PwC Switzerland. Through exploratory data analysis, I uncovered insights into the customer churn patterns, which I then visualized in a Power BI dashboard report. The report provided a clear and interactive way to communicate my findings, helping the client to better understand their customer behavior and make informed decisions to improve customer retention.
